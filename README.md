@@ -4,6 +4,8 @@
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/317z6me4w5lt7x4pbhra7sjjlkvm)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/andreiv03)
 
-Hey there! 👋
+# GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=andreiv03&theme=gotham" />
 
-I am currently studying computer science at the Faculty of Automatic Control and Computer Science of the Politehnica University of Bucharest.
+# Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreiv03&theme=gotham" />
